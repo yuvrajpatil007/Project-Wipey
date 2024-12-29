@@ -1,0 +1,12 @@
+2024-12-29 18:37:39,281 - INFO - Project setup complete!
+2024-12-29 18:37:39,281 - INFO - Audio preprocessing started.
+2024-12-29 18:37:39,281 - ERROR - Failed to process audio file: example.wav
+2024-12-29 18:37:39,281 - INFO - Audio preprocessing completed successfully.
+2024-12-29 18:37:39,281 - WARNING - Disk space is running low!
+2024-12-29 18:37:39,281 - ERROR - Error occurred: division by zero
+2024-12-29 18:38:43,272 - INFO - Project setup complete!
+2024-12-29 18:38:43,272 - INFO - Audio preprocessing started.
+2024-12-29 18:38:43,272 - ERROR - Failed to process audio file: example.wav
+2024-12-29 18:38:43,272 - INFO - Audio preprocessing completed successfully.
+2024-12-29 18:38:43,272 - WARNING - Disk space is running low!
+2024-12-29 18:38:43,272 - ERROR - Error occurred: division by zero
