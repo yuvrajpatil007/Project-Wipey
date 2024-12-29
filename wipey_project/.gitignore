@@ -1,0 +1,15 @@
+# Ignore large data files
+*.wav
+*.mp3
+*.flac
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore sensitive files
+.env
+
+# Ignore logs
+logs/
